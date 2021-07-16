@@ -6,13 +6,35 @@
     <description>Recent content in Posts on Trần Thành Đạt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://dattranthanh.github.io/DatTran/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dattranthanh.github.io/DatTran/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Tranquilpeak 0.4.8-BETA</title>
-      <link>https://dattranthanh.github.io/DatTran/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</link>
+      <title>Hihi</title>
+      <link>https://dattranthanh.github.io/DatTran/2021/07/hihi/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dattranthanh.github.io/DatTran/2021/07/hihi/</guid>
+      <description>&lt;p&gt;Không phải trên bầu trời đầy sao, cũng chẳng phải trong sự mỹ lệ của các tràng hoa với toàn bộ sự hoàn hảo của nó sẽ làm hé lộ ra cái vô hạn trong cái hữu hạn - motif của mọi sự sáng tạo- mà chính là ở trong tâm hồn con người!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Từ vẻ đẹp của vô hạn đến sự hình thành các vũ trụ song song (phần 1)</title>
+      <link>https://dattranthanh.github.io/DatTran/2021/07/t%E1%BB%AB-v%E1%BA%BB-%C4%91%E1%BA%B9p-c%E1%BB%A7a-v%C3%B4-h%E1%BA%A1n-%C4%91%E1%BA%BFn-s%E1%BB%B1-h%C3%ACnh-th%C3%A0nh-c%C3%A1c-v%C5%A9-tr%E1%BB%A5-song-song-ph%E1%BA%A7n-1/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dattranthanh.github.io/DatTran/2021/07/t%E1%BB%AB-v%E1%BA%BB-%C4%91%E1%BA%B9p-c%E1%BB%A7a-v%C3%B4-h%E1%BA%A1n-%C4%91%E1%BA%BFn-s%E1%BB%B1-h%C3%ACnh-th%C3%A0nh-c%C3%A1c-v%C5%A9-tr%E1%BB%A5-song-song-ph%E1%BA%A7n-1/</guid>
+      <description>&lt;h1 id=&#34;giai-điệu-của-vô-hạn&#34;&gt;Giai điệu của Vô hạn&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Không phải trên bầu trời đầy sao, cũng chẳng phải trong sự mỹ lệ của các tràng hoa với toàn bộ sự hoàn hảo của nó sẽ làm hé lộ ra cái vô hạn trong cái hữu hạn - motif của mọi sự sáng tạo- mà chính là ở trong tâm hồn con người!&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;Trịnh Xuân Thuận&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Xin chào đến với trang cá nhân của mình</title>
+      <link>https://dattranthanh.github.io/DatTran/2015/06/xin-ch%C3%A0o-%C4%91%E1%BA%BFn-v%E1%BB%9Bi-trang-c%C3%A1-nh%C3%A2n-c%E1%BB%A7a-m%C3%ACnh/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://dattranthanh.github.io/DatTran/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</guid>
+      <guid>https://dattranthanh.github.io/DatTran/2015/06/xin-ch%C3%A0o-%C4%91%E1%BA%BFn-v%E1%BB%9Bi-trang-c%C3%A1-nh%C3%A2n-c%E1%BB%A7a-m%C3%ACnh/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
     </item>
     
@@ -23,24 +45,6 @@
       
       <guid>https://dattranthanh.github.io/DatTran/2015/06/who-is-using-tranquilpeak-hugo-theme/</guid>
       <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Elements showcase</title>
-      <link>https://dattranthanh.github.io/DatTran/2015/05/elements-showcase/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://dattranthanh.github.io/DatTran/2015/05/elements-showcase/</guid>
-      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cover image showcase</title>
-      <link>https://dattranthanh.github.io/DatTran/2015/05/cover-image-showcase/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://dattranthanh.github.io/DatTran/2015/05/cover-image-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
     <item>
